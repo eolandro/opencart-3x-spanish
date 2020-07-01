@@ -6,3 +6,5 @@
 - Rellene los campos necesarios, en "Code" seleccione es-ES y guarde los cambios.
 
 Luego de hacer eso se puede configurar el idioma para que se use en la tienda desde  System->Setings>Store
+
+Version mejorada
